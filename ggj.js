@@ -1,0 +1,1 @@
+T("sin", {freq:440, mul:0.5}).play();
